@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd,li,span,a,b,em,i,strong,img{padding:0;margin:0;}
+li{list-style:none;}
+a{text-decoration:none;}
+.clearFix:after{content:'';display:block;clear:both;}
+.clearfix{zoom:1;}
+.fl{float:left;display:inline;}
+.fr{float:right;display:inline;}
+body{ font-size:12px; font-family:"\5FAE\8F6F\96C5\9ED1";}
+a{ color:#333333; }
+img,input,select,textarea{vertical-align:top;}
+input,select,textarea{outline:none;}
+textarea{resize:none;}
+.wrapper{width:1200px;margin:0 auto;}
+img{border:none;}
